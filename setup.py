@@ -6,7 +6,7 @@ setuptools.setup(
     author="Alex Mykyta",
     author_email="amykyta3@github.com",
     description="Example git-me-the-url translator plugin",
-    packages=['gmtu_plugin_example'],
+    packages=setuptools.find_packages(),
     install_requires=[
         "git-me-the-url",
     ],
