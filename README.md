@@ -1,7 +1,8 @@
 
 # Example Git me the URL plugin
 
-Fork this repository and edit it as needed.
+This is a template repository. Use this as a starting point for your own
+URL translator plugin.
 
 If you create a translator for a public Git hosting service, let me know so I
 can add it to the project: https://github.com/amykyta3/git-me-the-url/issues
