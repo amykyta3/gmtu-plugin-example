@@ -15,3 +15,10 @@ can add it to the project: https://github.com/amykyta3/git-me-the-url/issues
     * Change the `entry_points` string to point to your new translator class.
       This is how the `gitmetheurl` command line application discovers plugins.
     * Update everything else to match your package name (and your name!)
+
+## Install your plugin
+
+Install using pip:
+
+    cd path/to/gmtu-plugin-example
+    python3 -m pip install .
