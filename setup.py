@@ -8,7 +8,7 @@ setuptools.setup(
     description="Example git-me-the-url translator plugin",
     packages=setuptools.find_packages(),
     install_requires=[
-        "git-me-the-url",
+        "git-me-the-url >= 2.0.0",
     ],
     entry_points =
     """
